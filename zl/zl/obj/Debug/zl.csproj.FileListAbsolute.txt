@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\zl\zl\obj\Debug\zl.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\zl\zl\bin\Debug\zl.exe.config
+C:\Users\Administrator\source\repos\zl\zl\bin\Debug\zl.exe
+C:\Users\Administrator\source\repos\zl\zl\bin\Debug\zl.pdb
+C:\Users\Administrator\source\repos\zl\zl\obj\Debug\zl.exe
+C:\Users\Administrator\source\repos\zl\zl\obj\Debug\zl.pdb
